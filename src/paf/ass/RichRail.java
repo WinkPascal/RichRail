@@ -88,6 +88,8 @@ public class RichRail extends javax.swing.JFrame implements ActionListener
 	
 	private void initGUI() 
 	{
+
+		
 		try 
 		{
 			this.setTitle("PoorRail");
