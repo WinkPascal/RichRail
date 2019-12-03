@@ -1,4 +1,4 @@
-package parser;
+package parser.wagon;
 
 public class WagonBuilder implements Builder{
 	private String naam;

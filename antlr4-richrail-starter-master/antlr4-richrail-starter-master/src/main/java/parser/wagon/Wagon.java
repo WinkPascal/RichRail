@@ -1,4 +1,4 @@
-package parser;
+package parser.wagon;
 
 public class Wagon {
 	

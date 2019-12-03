@@ -1,4 +1,4 @@
-package parser;
+package parser.locomotief;
 
 public class LocomotiefFactory {
 

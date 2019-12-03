@@ -1,4 +1,4 @@
-package parser;
+package parser.spoor;
 
 public class Spoor {
 

@@ -1,4 +1,4 @@
-package parser;
+package parser.console;
 
 public class Console {
 	
